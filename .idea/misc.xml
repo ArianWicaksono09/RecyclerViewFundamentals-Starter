@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/File Kuliah/File Kuliah Semester 7/Android Studio/File tugas 14/RecyclerViewFundamentals-Starter/app/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/File Kuliah/File Kuliah Semester 7/Android Studio/File tugas 14/RecyclerViewFundamentals-Starter/app/src/main/res/layout/fragment_sleep_tracker.xml" value="0.1" />
         <entry key="..\:/File Kuliah/File Kuliah Semester 7/Android Studio/File tugas 14/RecyclerViewFundamentals-Starter/app/src/main/res/layout/list_item_sleep_night.xml" value="0.1" />
+        <entry key="..\:/File Kuliah/File Kuliah Semester 7/Android Studio/File tugas 14/RecyclerViewFundamentals-Starter/app/src/main/res/layout/list_item_sleep_night_linear.xml" value="0.1" />
         <entry key="..\:/File Kuliah/File Kuliah Semester 7/Android Studio/File tugas 14/RecyclerViewFundamentals-Starter/app/src/main/res/layout/text_item_view.xml" value="0.1" />
       </map>
     </option>
